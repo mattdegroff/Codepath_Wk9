@@ -1,3 +1,3 @@
 Week 9 Honeypot Assignment
 
-I have been having trouble trying to access the console for mhn admin. Whenever I run the install.sh file everything installs directly and I use the defaults and then when I try to access the console, the browser says it could'nt connect. Still working on trying to get atleast 1 honeypot running.
+I have been having trouble trying to access the console for mhn admin. Whenever I run the install.sh file everything installs directly and I use the defaults and then when I try to access the console, the browser says it could'nt connect. Also, when trying to execute the commands for the gcloud sdk install of vm instances, none of the commands provided by the walkthrough worked and returned errors. I tried manually installing the instances but feel as though they were missing aspects that that commands were supposed to install. I have no questions since no honeypot was able to be ran.
